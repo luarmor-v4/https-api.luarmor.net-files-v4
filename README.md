@@ -1,1 +1,1 @@
-# https-api.luarmor.net-files-v4
+# https-api.luarmor/file/v4
